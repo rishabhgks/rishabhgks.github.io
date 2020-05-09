@@ -5,6 +5,5 @@ header:
   image: "/images/zakim.jpg"
 ---
 
-I'm a senior data scientist who excels at data wrangling, machine learning, exploratory analysis, and data visualizations.
+I'm passionate about Computer Vision and Machine Learning and its application in 3D space, Autonomous Vehicles, Augmented Reality and Virtual Reality.
 
-Etc, etc, etc
