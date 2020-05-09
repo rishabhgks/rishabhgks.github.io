@@ -1,9 +1,9 @@
 ---
-title: "Data Wrangling Project"
+title: "LeGO-LOAM on NUANCE Dataset"
 date: 2018-01-28
-tags: [data wrangling, data science, messy data]
+tags: [LeGO-LOAM, NUANCE, self driving, LiDAR Mapping]
 header:
-  image: "/images/perceptron/percept.jpg"
+  image: "/images/closer_map_view.png"
 excerpt: "Data Wrangling, Data Science, Messy Data"
 mathjax: "true"
 ---
